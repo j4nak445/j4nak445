@@ -66,6 +66,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-00FF88?style=for-the-badge&logo=tryhackme&logoColor=000&labelColor=1a1a1a)](https://tryhackme.com/p/J4nakk)
 [![GitHub](https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=000&labelColor=1a1a1a)](https://github.com/j4nak445)
 [![Twitter](https://img.shields.io/badge/Twitter-00FFFF?style=for-the-badge&logo=twitter&logoColor=000&labelColor=1a1a1a)](https://twitter.com/j4nak445)
+[![Grayswan Arena](https://img.shields.io/badge/Grayswan%20Arena-FF00FF?style=for-the-badge&logo=target&logoColor=000&labelColor=1a1a1a)](https://app.grayswan.ai/arena/user/6a3134e3cd7ed51de3804f88)
 
 </div>
 
@@ -139,16 +140,16 @@
 
 ### 🔬 **AI EXPLOITATION TECHNIQUES**
 
-| Attack Type | Description | Status |
-|---|---|---|
-| **Prompt Injection** | Direct & Indirect instruction override | 🔴 Expert |
-| **Jailbreaking** | Bypassing safety guardrails | 🔴 Advanced |
-| **Model Extraction** | Stealing model weights & knowledge | 🟡 Learning |
-| **Prompt Leakage** | Extracting hidden system prompts | 🔴 Expert |
-| **Poisoning Attacks** | Training data contamination | 🟡 Learning |
-| **Hallucination Mapping** | Identifying & exploiting false outputs | 🔴 Advanced |
-| **Token Smuggling** | Context window manipulation | 🟡 Learning |
-| **Adversarial Inputs** | Crafting inputs to cause failures | 🔴 Expert |
+| Attack Type | Description |
+|---|---|
+| **Prompt Injection** | Direct & Indirect instruction override |
+| **Jailbreaking** | Bypassing safety guardrails |
+| **Model Extraction** | Stealing model weights & knowledge |
+| **Prompt Leakage** | Extracting hidden system prompts |
+| **Poisoning Attacks** | Training data contamination |
+| **Hallucination Mapping** | Identifying & exploiting false outputs |
+| **Token Smuggling** | Context window manipulation |
+| **Adversarial Inputs** | Crafting inputs to cause failures |
 
 ### 💻 **AI SECURITY TECH STACK**
 
@@ -170,10 +171,38 @@
 ✓ Adversarial Testing Frameworks
 ```
 
-### 🎮 **RED TEAMING PROJECTS**
+### 🏆 **AI SECURITY TESTING PLATFORMS**
+
+| Platform | Purpose | Status |
+|----------|---------|--------|
+| **[Grayswan Arena](https://app.grayswan.ai/arena/user/6a3134e3cd7ed51de3804f88)** | 🤖 LLM Red Teaming & Adversarial Testing | 🟢 Active Participant |
+| **HuggingFace Spaces** | 🧪 Model Testing & Benchmarking | 🟢 Active |
+| **OpenAI API** | 🎯 ChatGPT Exploitation Research | 🟢 Researching |
+| **Anthropic Console** | 📚 Claude Security Testing | 🟢 Analyzing |
+| **Google AI Test Kitchen** | 🔬 Gemini Model Research | 🟡 Exploring |
+
+#### 🌟 **Grayswan Arena Profile**
+
+```
+Platform: Grayswan AI Arena
+Focus: Collaborative LLM Red Teaming & Security Assessment
+Skills: Prompt Engineering, Adversarial Testing, Security Evaluation
+Status: 🔴 Actively Testing & Discovering Vulnerabilities
+Profile: https://app.grayswan.ai/arena/user/6a3134e3cd7ed51de3804f88
+
+Specializations:
+├── Advanced Prompt Injection Tests
+├── Multi-Model Jailbreak Analysis
+├── Context Window Manipulation
+├── Token Limit Exploitation
+├── Safety Guard Bypass Techniques
+└── Comprehensive LLM Security Assessment
+```
+
+### 🎮 **RED TEAMING FUTURE PROJECTS**
 
 ```bash
-🔴 ACTIVE PROJECTS:
+🔴 FUTURE PROJECTS:
 
 [1] Universal LLM Jailbreak Patterns
     → Testing across ChatGPT, Claude, Gemini
@@ -196,17 +225,9 @@
 
 </div>
 
-## 💾 CURRENT PROJECTS IN PROGRESS
+## 💾 PROJECTS IN PROGRESS
 
 <div align="center">
-
-### 🔍 **Intrusion Detection System (IDS)**
-```
-Status: 🟢 Active Development
-Tech Stack: Python | Machine Learning | Network Analysis
-Features: PCAP Analysis | Threat Detection | Real-time Monitoring
-Focus: Implementing advanced detection algorithms
-```
 
 ### 📚 **TryHackMe Security Portfolio**
 ```
@@ -237,7 +258,7 @@ Goal: Develop secure AI deployment frameworks
 
 ---
 
-## 🎯 MY PHILOSOPHY
+## 🎯 PHILOSOPHY
 
 <div align="center">
 
@@ -274,9 +295,9 @@ Goal: Develop secure AI deployment frameworks
 | **Languages** | Python, Java, C, JavaScript, Bash |
 | **Cybersecurity** | Penetration Testing, Network Analysis, Vulnerability Assessment |
 | **AI Security** | LLM Red Teaming, Prompt Engineering, Adversarial Testing |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
+| **Databases** | MongoDB, MySQL |
 | **Tools** | Nmap, Wireshark, Burp Suite, Metasploit, CyberChef, John The Ripper |
-| **Frameworks** | TensorFlow, Django, Flask, LangChain |
+| **Frameworks** | TensorFlow, Django, Flask |
 | **Cloud/DevOps** | Linux, Docker, Git, GitHub |
 
 </div>
@@ -291,7 +312,7 @@ Goal: Develop secure AI deployment frameworks
 
 **📊 GitHub Contributions** | **🏆 Active Learner** | **🔐 Security Focused**
 ---|---|---
-500+ Commits | Top 10% TryHackMe | Published Research
+50+ Commits | Top 1% TryHackMe | Published Research
 
 </div>
 
@@ -301,15 +322,9 @@ Goal: Develop secure AI deployment frameworks
 
 <div align="center">
 
-### 🔥 **In Progress**
-- [ ] Certified Ethical Hacker (CEH)
-- [ ] OSCP (Offensive Security Certified Professional)
-- [ ] Google Cloud Security Engineer
-- [ ] AI Security Specialist Certification
-
 ### ✅ **Completed**
-- [x] TryHackMe Rooms: 50+ Completed
-- [x] HackTheBox Machines: 30+ Rooted
+- [x] TryHackMe Rooms: 230+ Completed
+- [x] HackTheBox Machines: 10+ Rooted
 - [x] Google Cybersecurity Fundamentals
 - [x] Python for Security Programming
 
@@ -348,6 +363,6 @@ One Exploit at a Time | One Discovery at a Time
 
 ![Rainbow Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<sub>**Last Updated:** 2024 | **Status:** 🟢 Actively Learning & Building</sub>
+<sub>**Last Updated:** 2026 | **Status:** 🟢 Actively Learning & Building</sub>
 
 </div>
